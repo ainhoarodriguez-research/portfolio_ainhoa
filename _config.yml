@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Ainhoa del Pino Rodríguez Vera"
-  avatar           : "/docs/assets/images/bio-photo.jpeg"
+  avatar           : "/assets/images/bio-photo.jpeg"
   bio              : "Predoctoral Researcher in Strategic Communication and Tourism, with a focus on startups, gender, innovation and science communication"
   location         : "Málaga, Spain"
   email            : "ainhoarodriguez@uma.es"
