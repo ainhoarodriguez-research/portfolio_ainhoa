@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Predoctoral Researcher in Strategic Communication and Tourism, with a focus on startups, gender, innovation and science communication"
   location         : "Málaga, Spain"
-  email            :
+  email            : "ainhoarodriguez@uma.es"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
