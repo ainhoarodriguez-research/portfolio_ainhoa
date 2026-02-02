@@ -117,18 +117,17 @@ author:
   avatar           : "/assets/images/bio-photo-ainhoa.jpeg"
   bio              : "Predoctoral Researcher in Strategic Communication and Tourism, with a focus on startups, gender, innovation and science communication"
   location         : "Málaga, Spain"
-  email            : "ainhoarodriguez@uma.es"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:ainhoarodriguez@uma.es"
 
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=VMMyGhUAAAAJ&hl=es"
       
     - label: "ORCID"
-      icon: "ai ai-orcid"
+      icon: "fas fa-fw fa-id-badge
       url: "https://orcid.org/0009-0009-7638-4120"
 
 # Site Footer
