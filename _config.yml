@@ -120,14 +120,16 @@ author:
   email            : "ainhoarodriguez@uma.es"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:ainhoarodriguez@uma.es"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ainhoarodriguez@uma.es"
+
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square"
-      # url: "https://scholar.google.com/citations?user=VMMyGhUAAAAJ&hl=es"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=VMMyGhUAAAAJ&hl=es"
+      
     - label: "ORCID"
-      icon: "ai ai-orcid-square"
-      # url: "https://orcid.org/0009-0009-7638-4120"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0009-0009-7638-4120"
 
 # Site Footer
 footer:
