@@ -134,6 +134,10 @@ footer:
 include:
   - .htaccess
   - _pages
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
