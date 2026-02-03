@@ -125,9 +125,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=VMMyGhUAAAAJ&hl=es"
-      
+
     - label: "ORCID"
-      icon: "fas fa-fw fa-id-badge
+      icon: "fas fa-fw fa-id-badge"
       url: "https://orcid.org/0009-0009-7638-4120"
 
 # Site Footer
